@@ -1,0 +1,6 @@
+[package]
+name = "sigmaos_herdr_runtime_live_coding_agents"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

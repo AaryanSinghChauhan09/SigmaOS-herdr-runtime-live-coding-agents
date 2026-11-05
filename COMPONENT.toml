@@ -1,0 +1,6 @@
+[component]
+name = "SigmaOS-herdr-runtime-live-coding-agents"
+tier = 3
+description = "Live coding multi-agent runtime coordinator inspired by Omarchy Herdr"
+contracts = ['herdr-runtime', 'agent-dispatcher', 'live-eval-bridge']
+upstream_inspirations = ['https://github.com/omacom/herdr']
